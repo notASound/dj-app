@@ -14,8 +14,8 @@ The application´s purpose is to mix the music by allowing the user to load, pla
 
 ## Installation
 
-```sh
-cd dj-app
+1. Install JUCE (https://juce.com/get-juce/)
+2. Open file dj-app.juicer with JUCE
+3. In JUCE select exporter, save and open project in your IDE
+4. Build and run in your IDE
 
-node app
-```
